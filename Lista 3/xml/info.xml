@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<ArrayOfPerson xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Person>
+    <Name>132</Name>
+    <Surname>123</Surname>
+    <Pesel>123</Pesel>
+  </Person>
+  <Person>
+    <Name>dasd</Name>
+    <Surname>asd</Surname>
+    <Pesel>asd</Pesel>
+  </Person>
+  <Person>
+    <Name>876</Name>
+    <Surname>654</Surname>
+    <Pesel>mgf</Pesel>
+  </Person>
+  <Person>
+    <Name>edw</Name>
+    <Surname>sadas</Surname>
+    <Pesel>asda</Pesel>
+  </Person>
+</ArrayOfPerson>
